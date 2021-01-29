@@ -1,4 +1,9 @@
-# real_estate-_data_project
+# the code for the actual "spider -> inmo/spiders/inmo_spider.py
+
+# how to modofy the format of the extraction -> inmo/items.py
+
+# real_estate-\_data_project
+
 *Deadline: 29/01/2021 16:00
 *Team: Group 2 (Ad, Daniel, Simon)
 
@@ -62,8 +67,9 @@ Create the repository
 Study the request (What & Why ?)
 Identify technical challenges (How ?)
 Evaluation criterias
-Criteria	Indicator	Yes/No
-1. Is complete	Minimum : 10.000 inputs	
-Data for all of Belgium	
-No empty row	
-Minimize non-numeric values.	
+Criteria Indicator Yes/No
+
+1. Is complete Minimum : 10.000 inputs
+   Data for all of Belgium
+   No empty row
+   Minimize non-numeric values.
