@@ -12,10 +12,6 @@ links = [
     "https://www.immoweb.be/en/classified/apartment/for-sale/tohogne/6941/9027050?searchId=6011b04a00f66",
 ]
 
-for t in links:
-    
-
-
 
 class Inmo(scrapy.Spider):
     name = "inmo"
@@ -27,8 +23,6 @@ class Inmo(scrapy.Spider):
 
     def parse(self, response):
         for row in response.xpath("//table/tbody/tr"):
-
-            
 
             l = ItemLoader(item=InmoItem(), selector=row)
             l.add_xpath("data1", "th")
