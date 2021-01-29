@@ -133,7 +133,7 @@ class ImmoScraper:
 
     def save_set(self):
         json_str = json.dumps(list(self.set_links))
-        loc = f'./data{int(time())}.txt'
+        loc = f'./links_{int(time())}.txt'
         with open(loc, 'w') as outfile:
             json.dump(json_str, outfile)
 
