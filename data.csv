@@ -1,0 +1,603 @@
+data1
+Année de construction
+État du bâtiment
+Nombre de façades
+Parkings extérieurs
+Visite virtuelle
+Surface habitable
+Surface du salon
+Disponibilité
+Type de cuisine
+Disponible le
+Année de construction
+Chambres
+État du bâtiment
+Nombre de façades
+Parkings intérieurs
+Salles de bains
+Parkings extérieurs
+Surface habitable
+Toilettes
+Porte blindée
+Surface du salon
+Type de cuisine
+Surface du terrain
+Raccordement à l'égout
+Chambres
+Surface de la chambre 1
+Surface de la chambre 2
+Surface du jardin
+Surface de la terrasse
+Surface de la chambre 3
+Salles de bains
+Orientation de la terrasse
+Consommation d'énergie primaire
+Salles de douche
+Toilettes
+Classe énergétique
+""
+Surface du terrain
+Surface du jardin
+Surface de la terrasse
+Numéro du rapport PEB
+Accès sécurisé / alarme
+Consommation d'énergie primaire
+Classe énergétique
+Emission CO₂
+Consommation théorique totale d'énergie primaire
+""
+Attestation as-built
+Type de chauffage
+Numéro du rapport PEB
+Double vitrage
+Prix
+Emission CO₂
+Consommation théorique totale d'énergie primaire
+Revenu cadastral
+""
+Type de chauffage
+Adresse
+Site internet
+Type de zone inondable
+Référence externe
+Loyer mensuel demandé
+""
+Adresse
+Site internet
+Référence externe
+data1,data2
+Disponibilité,Selon le locataire
+Disponible le,15 avril 2021 - 00:00
+Année de construction,1950
+État du bâtiment,Bon
+Nombre de façades,2
+Parkings intérieurs,1
+Parkings extérieurs,2
+Surface habitable,"164
+
+                                    
+                                        
+                                            m²                                        
+                                        
+                                            mètres carrés"
+Année de construction,2015
+Surface du salon,"40
+
+                                    
+                                        
+                                            m²                                        
+                                        
+                                            mètres carrés"
+État du bâtiment,Excellent état
+Nombre de façades,2
+Type de cuisine,Américaine hyper-équipée
+Chambres,3
+Parkings extérieurs,3
+Visite virtuelle,Visite virtuelle
+Surface de la chambre 1,"24
+
+                                        
+                                            
+                                                m²                                            
+                                            
+                                                mètres carrés"
+Surface habitable,"175
+
+                                    
+                                        
+                                            m²                                        
+                                        
+                                            mètres carrés"
+Surface de la chambre 2,"13
+
+                                        
+                                            
+                                                m²                                            
+                                            
+                                                mètres carrés"
+Surface du salon,"30
+
+                                    
+                                        
+                                            m²                                        
+                                        
+                                            mètres carrés"
+Surface de la chambre 3,"12
+
+                                        
+                                            
+                                                m²                                            
+                                            
+                                                mètres carrés"
+Salles de bains,2
+Type de cuisine,Équipée
+Chambres,4
+Salles de bains,3
+Salles de douche,1
+Toilettes,3
+Porte blindée,Non
+Toilettes,3
+Surface du terrain,"200
+
+                                        
+                                            
+                                                m²
+                                            
+                                            
+                                                mètres carrés"
+Surface du terrain,"196
+
+                                        
+                                            
+                                                m²
+                                            
+                                            
+                                                mètres carrés"
+Surface du jardin,"150
+                                    
+                                        
+                                            m²
+                                        
+                                        
+                                            mètres carrés"
+Surface de la terrasse,"30
+
+                                    
+                                        
+                                            m²
+                                        
+                                        
+                                            mètres carrés"
+Raccordement à l'égout,Connecté
+Surface du jardin,"196
+                                    
+                                        
+                                            m²
+                                        
+                                        
+                                            mètres carrés"
+Accès sécurisé / alarme,Oui
+Consommation d'énergie primaire,"439
+
+                                        
+                                    
+                                         kWh/m²
+                                    
+                                    
+                                        kilowattheure par mètres carrés"
+Surface de la terrasse,"20
+
+                                    
+                                        
+                                            m²
+                                        
+                                        
+                                            mètres carrés"
+Classe énergétique,G
+,
+Numéro du rapport PEB,G
+Orientation de la terrasse,Ouest
+Consommation d'énergie primaire,"92
+
+                                        
+                                    
+                                         kWh/m²
+                                    
+                                    
+                                        kilowattheure par mètres carrés"
+Emission CO₂,88 kg CO₂/m²
+Consommation théorique totale d'énergie primaire,Non communiqué
+Classe énergétique,B
+,
+Type de chauffage,Gaz
+Type de zone inondable,Zone non inondable
+Loyer mensuel demandé,"1.950 €
+                                        
+                                        
+                                            1950 €"
+Numéro du rapport PEB,Non communiqué
+Emission CO₂,Non communiqué
+,
+Adresse,"Avenue Baron Albert d'Huart 130 
+                                                                                                                                                                        
+                                                                                                                            1950
+                                                                                                                            - Kraainem"
+Consommation théorique totale d'énergie primaire,Non communiqué
+Attestation as-built,Non
+Site internet,http://www.latouretpetit.be
+Référence externe,4255059
+Type de chauffage,Gaz
+Double vitrage,Oui
+Prix,"450.000 €
+                                        
+                                        
+                                                                                        450000 €"
+Revenu cadastral,"1.033 €
+                                        
+                                        
+                                            1033 €"
+,
+Adresse,"chaussée de Liège 36 
+                                                                                                                                                                        
+                                                                                                                            6900
+                                                                                                                            - Marche-en-Famenne"
+Site internet,http://www.easyhome-immo.be
+Référence externe,Erpent
+data1,data2
+Disponibilité,Selon le locataire
+Disponible le,15 avril 2021 - 00:00
+Année de construction,1950
+État du bâtiment,Bon
+Nombre de façades,2
+Parkings intérieurs,1
+Parkings extérieurs,2
+Surface habitable,164 m² mètres carrés
+Surface du salon,40 m² mètres carrés
+Type de cuisine,Américaine hyper-équipée
+Chambres,3
+Surface de la chambre 1,24 m² mètres carrés
+Surface de la chambre 2,13 m² mètres carrés
+Surface de la chambre 3,12 m² mètres carrés
+Available as of,Upon exchange of deeds
+Salles de bains,2
+Construction year,1971
+Number of frontages,2
+Année de construction,2015
+Salles de douche,1
+Virtual visit,Link to the virtual visit
+État du bâtiment,Excellent état
+Toilettes,3
+Surface du terrain,200 m² mètres carrés
+Single session,No
+Terms of visit,nl : zonder afspraak op woe 13/1 van 11u30-13u of na tel. contact sleutels af te halen op kantoor &amp; mits voorleggen van identiteitskaart
+Nombre de façades,2
+Parkings extérieurs,3
+Surface du jardin,150 m² mètres carrés
+Surface de la terrasse,30 m² mètres carrés
+Venue of the sale,Link to online sale
+Living room,Yes
+Bedrooms,1
+Available as of,To be defined
+Floor,1
+Available as of,Upon exchange of deeds
+Visite virtuelle,Visite virtuelle
+Accès sécurisé / alarme,Oui
+Bathrooms,1
+Single session,No
+Terms of visit,"fr : lundis 25/1, 1/2 et 8/2/21 de 10-12h, jeudis 4/2 et 11/2/21 de 10-12h et sam. 30/1/21 de 13-15h. MASQUE OBLIGATOIRE © MAX 1 PERS. nl : Maan. 25/1, 1/2 en 8/2/21 van 10-12u, don. 4/2 en 11/2/21 van 10-12u en zat. 30/1/21 van 13-15u. MASKER VERPLICHT. MAX 1 PERS."
+Floor,3
+Virtual visit,Link to the virtual visit
+Single session,No
+Available as of,To be defined
+Floor,2
+Surface habitable,175 m² mètres carrés
+Surface du salon,30 m² mètres carrés
+Consommation d'énergie primaire,439 kWh/m² kilowattheure par mètres carrés
+Classe énergétique,G
+Basement,Yes
+Terrace,Yes
+Available as of,Upon exchange of deeds
+Single session,No
+Venue of the sale,Link to online sale
+Terms of visit,fr : (àpd 20/01 au 6/02 incl.) : mercr. et sam. de 13-15h. MASQUE OBLIGATOIRE. nl : (vanaf 20/01 tem 6/02) : woens. en zat. v. 13-15u. MONDMASKER VERPLICHT.
+Venue of the sale,Link to online sale
+Covered parking spaces,1
+Single session,No
+Type de cuisine,Équipée
+Chambres,4
+Salles de bains,3
+,
+Numéro du rapport PEB,G
+Primary energy consumption,193 kWh/m² kilowatt hour per square meters
+Energy class,B
+,
+Venue of the sale,Link to online sale
+Bedrooms,1
+Living room,Yes
+Kitchen type,Installed
+Living room,Yes
+Kitchen type,Installed
+Bedrooms,1
+Terms of visit,fr : S'adresser en l'Etude.
+Venue of the sale,Link to online sale
+Toilettes,3
+Porte blindée,Non
+Emission CO₂,88 kg CO₂/m²
+Consommation théorique totale d'énergie primaire,Non communiqué
+Type de chauffage,Gaz
+Reference number of the EPC report,20191112-0002217400-RES-1
+CO₂ emission,Not specified
+Bathrooms,1
+Primary energy consumption,367 kWh/m² kilowatt hour per square meters
+Bedrooms,1
+Bathrooms,1
+Toilets,1
+Toilets,1
+Basement,Yes
+Living room surface,12 m² square meters
+Dining room,Yes
+Kitchen type,Installed
+Surface du terrain,196 m² mètres carrés
+Raccordement à l'égout,Connecté
+Type de zone inondable,Zone non inondable
+Loyer mensuel demandé,1.950 € 1950 €
+Yearly theoretical total energy consumption,Not specified
+Flood zone type,Non flood zone
+Reserve price,"€ 50,000 50000 €"
+Energy class,E
+,
+Primary energy consumption,317 kWh/m² kilowatt hour per square meters
+Energy class,F
+Primary energy consumption,554 kWh/m² kilowatt hour per square meters
+Energy class,G
+Kitchen surface,6 m² square meters
+Bedrooms,2
+Surface du jardin,196 m² mètres carrés
+Surface de la terrasse,20 m² mètres carrés
+Orientation de la terrasse,Ouest
+,
+Adresse,Avenue Baron Albert d'Huart 130 1950 - Kraainem
+Cadastral income,€ 689 689 €
+,
+Reference number of the EPC report,20201020015683
+CO₂ emission,Not specified
+Yearly theoretical total energy consumption,16777 kWh/year
+,
+Reference number of the EPC report,Not specified
+,
+Reference number of the EPC report,20171018-0000514283-01-2
+Bedroom 1 surface,11 m² square meters
+Bedroom 2 surface,11 m² square meters
+Consommation d'énergie primaire,92 kWh/m² kilowattheure par mètres carrés
+Classe énergétique,B
+,
+Site internet,http://www.latouretpetit.be
+Référence externe,4255059
+Address,"Nieuwstraat, 22 8870 - IZEGEM"
+Agent's name,Emmy GABRIELS
+Reserve price,"€ 36,000 36000 €"
+Cadastral income,€ 458 458 €
+,
+CO₂ emission,Not specified
+Yearly theoretical total energy consumption,Not specified
+CO₂ emission,Not specified
+Yearly theoretical total energy consumption,Not specified
+Cadastral income,€ 649 649 €
+Toilets,1
+Laundry room,Yes
+Numéro du rapport PEB,Non communiqué
+Emission CO₂,Non communiqué
+Address,Avenue de la Toison d'Or 67 6900 - Marche-en-Famenne
+Agent's name,Laurent DUMONT
+Reserve price,"€ 45,000 45000 €"
+Cadastral income,€ 289 289 €
+,
+Address,"Avenue Clemenceau, 88 1070 - Anderlecht"
+Agent's name,Céline CARLIER
+Basement,Yes
+Terrace,Yes
+Consommation théorique totale d'énergie primaire,Non communiqué
+Attestation as-built,Non
+,
+Address,Boulevard de la plaine 11 1050 - Ixelles
+Agent's name,Marie DERESE
+Primary energy consumption,180 kWh/m² kilowatt hour per square meters
+Energy class,C
+Type de chauffage,Gaz
+Double vitrage,Oui
+,
+Reference number of the EPC report,20200123007753
+CO₂ emission,Not specified
+Prix,450.000 € 450000 €
+Revenu cadastral,1.033 € 1033 €
+Yearly theoretical total energy consumption,Not specified
+Heating type,Gas
+,
+Adresse,chaussée de Liège 36 6900 - Marche-en-Famenne
+Double glazing,Yes
+Reserve price,"€ 50,000 50000 €"
+Cadastral income,€ 991 991 €
+Site internet,http://www.easyhome-immo.be
+Référence externe,Erpent
+,
+Address,"Chaussée de Montigny, 22 6060 - Gilly"
+Agent's name,Emeline SEPULT
+data1,data2,data3
+Disponibilité,Selon le locataire,test
+Disponible le,15 avril 2021 - 00:00,test
+Année de construction,1950,test
+État du bâtiment,Bon,test
+Nombre de façades,2,test
+Available as of,To be defined,test
+Available as of,Upon exchange of deeds,test
+Parkings intérieurs,1,test
+Année de construction,2015,test
+Floor,1,test
+Floor,3,test
+Parkings extérieurs,2,test
+Surface habitable,164 m² mètres carrés,test
+État du bâtiment,Excellent état,test
+Single session,No,test
+Available as of,Upon exchange of deeds,test
+Virtual visit,Link to the virtual visit,test
+Single session,No,test
+Available as of,Upon exchange of deeds,test
+Available as of,To be defined,test
+Surface du salon,40 m² mètres carrés,test
+Type de cuisine,Américaine hyper-équipée,test
+Nombre de façades,2,test
+Terms of visit,"fr : lundis 25/1, 1/2 et 8/2/21 de 10-12h, jeudis 4/2 et 11/2/21 de 10-12h et sam. 30/1/21 de 13-15h. MASQUE OBLIGATOIRE © MAX 1 PERS. nl : Maan. 25/1, 1/2 en 8/2/21 van 10-12u, don. 4/2 en 11/2/21 van 10-12u en zat. 30/1/21 van 13-15u. MASKER VERPLICHT. MAX 1 PERS.",test
+Single session,No,test
+Terms of visit,fr : (àpd 20/01 au 6/02 incl.) : mercr. et sam. de 13-15h. MASQUE OBLIGATOIRE. nl : (vanaf 20/01 tem 6/02) : woens. en zat. v. 13-15u. MONDMASKER VERPLICHT.,test
+Venue of the sale,Link to online sale,test
+Living room,Yes,test
+Kitchen type,Installed,test
+Construction year,1971,test
+Floor,2,test
+Chambres,3,test
+Surface de la chambre 1,24 m² mètres carrés,test
+Surface de la chambre 2,13 m² mètres carrés,test
+Parkings extérieurs,3,test
+Visite virtuelle,Visite virtuelle,test
+Surface habitable,175 m² mètres carrés,test
+Venue of the sale,Link to online sale,test
+Living room,Yes,test
+Venue of the sale,Link to online sale,test
+Bedrooms,1,test
+Bedrooms,1,test
+Toilets,1,test
+Number of frontages,2,test
+Virtual visit,Link to the virtual visit,test
+Covered parking spaces,1,test
+Single session,No,test
+Surface de la chambre 3,12 m² mètres carrés,test
+Salles de bains,2,test
+Surface du salon,30 m² mètres carrés,test
+Type de cuisine,Équipée,test
+Kitchen type,Installed,test
+Bedrooms,1,test
+Bathrooms,1,test
+Primary energy consumption,367 kWh/m² kilowatt hour per square meters,test
+Basement,Yes,test
+Single session,No,test
+Terms of visit,nl : zonder afspraak op woe 13/1 van 11u30-13u of na tel. contact sleutels af te halen op kantoor &amp; mits voorleggen van identiteitskaart,test
+Terms of visit,fr : S'adresser en l'Etude.,test
+Salles de douche,1,test
+Toilettes,3,test
+Chambres,4,test
+Bathrooms,1,test
+Toilets,1,test
+Primary energy consumption,317 kWh/m² kilowatt hour per square meters,test
+Energy class,F,test
+Energy class,E,test
+,,test
+Primary energy consumption,554 kWh/m² kilowatt hour per square meters,test
+Energy class,G,test
+Venue of the sale,Link to online sale,test
+Living room,Yes,test
+Venue of the sale,Link to online sale,test
+Living room surface,12 m² square meters,test
+Surface du terrain,200 m² mètres carrés,test
+Surface du jardin,150 m² mètres carrés,test
+Salles de bains,3,test
+Toilettes,3,test
+,,test
+Reference number of the EPC report,Not specified,test
+Reference number of the EPC report,20201020015683,test
+CO₂ emission,Not specified,test
+,,test
+Reference number of the EPC report,20171018-0000514283-01-2,test
+Bedrooms,1,test
+Dining room,Yes,test
+Kitchen type,Installed,test
+Kitchen surface,6 m² square meters,test
+Bedrooms,2,test
+Surface de la terrasse,30 m² mètres carrés,test
+Porte blindée,Non,test
+Surface du terrain,196 m² mètres carrés,test
+Raccordement à l'égout,Connecté,test
+Surface du jardin,196 m² mètres carrés,test
+CO₂ emission,Not specified,test
+Yearly theoretical total energy consumption,Not specified,test
+Yearly theoretical total energy consumption,16777 kWh/year,test
+Reserve price,"€ 36,000 36000 €",test
+CO₂ emission,Not specified,test
+Yearly theoretical total energy consumption,Not specified,test
+Cadastral income,€ 649 649 €,test
+,,test
+Bathrooms,1,test
+Basement,Yes,test
+Bedroom 1 surface,11 m² square meters,test
+Bedroom 2 surface,11 m² square meters,test
+Toilets,1,test
+Laundry room,Yes,test
+Accès sécurisé / alarme,Oui,test
+Surface de la terrasse,20 m² mètres carrés,test
+Orientation de la terrasse,Ouest,test
+Consommation d'énergie primaire,92 kWh/m² kilowattheure par mètres carrés,test
+Reserve price,"€ 45,000 45000 €",test
+Cadastral income,€ 289 289 €,test
+Cadastral income,€ 458 458 €,test
+,,test
+Address,Avenue de la Toison d'Or 67 6900 - Marche-en-Famenne,test
+Address,"Avenue Clemenceau, 88 1070 - Anderlecht",test
+Terrace,Yes,test
+Primary energy consumption,193 kWh/m² kilowatt hour per square meters,test
+Basement,Yes,test
+Terrace,Yes,test
+Consommation d'énergie primaire,439 kWh/m² kilowattheure par mètres carrés,test
+Classe énergétique,G,test
+Classe énergétique,B,test
+,,test
+,,test
+Agent's name,Laurent DUMONT,test
+Agent's name,Céline CARLIER,test
+Energy class,B,test
+Primary energy consumption,180 kWh/m² kilowatt hour per square meters,test
+,,test
+Numéro du rapport PEB,G,test
+Numéro du rapport PEB,Non communiqué,test
+Address,Boulevard de la plaine 11 1050 - Ixelles,test
+Agent's name,Marie DERESE,test
+,,test
+Energy class,C,test
+,,test
+Emission CO₂,88 kg CO₂/m²,test
+Consommation théorique totale d'énergie primaire,Non communiqué,test
+Emission CO₂,Non communiqué,test
+Reference number of the EPC report,20191112-0002217400-RES-1,test
+CO₂ emission,Not specified,test
+Yearly theoretical total energy consumption,Not specified,test
+Reference number of the EPC report,20200123007753,test
+Type de chauffage,Gaz,test
+Consommation théorique totale d'énergie primaire,Non communiqué,test
+Attestation as-built,Non,test
+Flood zone type,Non flood zone,test
+Reserve price,"€ 50,000 50000 €",test
+CO₂ emission,Not specified,test
+Yearly theoretical total energy consumption,Not specified,test
+Type de zone inondable,Zone non inondable,test
+Loyer mensuel demandé,1.950 € 1950 €,test
+Type de chauffage,Gaz,test
+Double vitrage,Oui,test
+Cadastral income,€ 689 689 €,test
+Heating type,Gas,test
+Double glazing,Yes,test
+,,test
+Prix,450.000 € 450000 €,test
+Revenu cadastral,1.033 € 1033 €,test
+,,test
+Address,"Nieuwstraat, 22 8870 - IZEGEM",test
+Reserve price,"€ 50,000 50000 €",test
+Cadastral income,€ 991 991 €,test
+,,test
+Address,"Chaussée de Montigny, 22 6060 - Gilly",test
+Agent's name,Emeline SEPULT,test
+Adresse,Avenue Baron Albert d'Huart 130 1950 - Kraainem,test
+Site internet,http://www.latouretpetit.be,test
+,,test
+Adresse,chaussée de Liège 36 6900 - Marche-en-Famenne,test
+Agent's name,Emmy GABRIELS,test
+Référence externe,4255059,test
+Site internet,http://www.easyhome-immo.be,test
+Référence externe,Erpent,test
