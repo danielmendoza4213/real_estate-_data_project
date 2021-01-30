@@ -1,4 +1,5 @@
 import scrapy
+import json
 from inmo.items import InmoItem
 from scrapy.loader import ItemLoader
 
@@ -22,12 +23,15 @@ class Inmo(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        for row in response.xpath("//table/tbody/tr"):
+        a = response.xpath("head//script[1]/text()").getall()
 
-            l = ItemLoader(item=InmoItem(), selector=row)
-            l.add_xpath("data1", "th")
-            l.add_xpath("data2", "td")
-            l.add_value("data3", "test")
+        yield {"a": a}
+        # for row in response.xpath("/html/head"):
 
-            yield l.load_item()
+        #     l = ItemLoader(item=InmoItem(), selector=row)
+        #     l.add_xpath("data1", "//script/")
+        #     l.add_xpath("data2", "td")
+        #     l.add_value("data3", "test")
+
+        #     yield l.load_item()
 

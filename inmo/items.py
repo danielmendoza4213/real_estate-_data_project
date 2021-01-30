@@ -14,12 +14,13 @@ def replace_n(value):
 
 
 class InmoItem(scrapy.Item):
-    data1 = scrapy.Field(
-        input_processor=MapCompose(remove_tags, remove_space),
-        output_processor=TakeFirst(),
-    )
-    data2 = scrapy.Field(
-        input_processor=MapCompose(remove_tags, remove_space, replace_n),
-        output_processor=TakeFirst(),
-    )
-    data3 = scrapy.Field()
+    pass
+    # data1 = scrapy.Field()
+    # input_processor=MapCompose(remove_tags, remove_space),
+    # output_processor=TakeFirst(),
+
+    # data2 = scrapy.Field(
+    #     input_processor=MapCompose(remove_tags, remove_space, replace_n),
+    #     output_processor=TakeFirst(),
+    # )
+    # data3 = scrapy.Field()
