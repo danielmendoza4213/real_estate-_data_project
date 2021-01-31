@@ -1,8 +1,8 @@
-# the code for the actual "spider -> inmo/spiders/inmo_spider.py
+## the code for the actual "spider -> inmo/spiders/inmo_spider.py
 
-# how to modofy the format of the extraction -> inmo/items.py
+## TODO: Export SCV file runing data_cleaning.py
 
-# real_estate-\_data_project
+### real_estate-\_data_project
 
 *Deadline: 29/01/2021 16:00
 *Team: Group 2 (Ad, Daniel, Simon)
