@@ -1,6 +1,5 @@
 ## the code for the actual "spider -> inmo/spiders/inmo_spider.py
 
-## TODO: Link the list of links to the scrapy spider
 ## TODO: Export SCV file runing data_cleaning.py
 
 ### real_estate-\_data_project
