@@ -1,6 +1,8 @@
 import scrapy
-import json
+
+# import json
 from inmo.items import InmoItem
+
 from scrapy.loader import ItemLoader
 
 links = [
@@ -13,6 +15,8 @@ links = [
     "https://www.immoweb.be/en/classified/apartment/for-sale/tohogne/6941/9027050?searchId=6011b04a00f66",
 ]
 
+""" open links from file"""
+
 
 class Inmo(scrapy.Spider):
     name = "inmo"
@@ -23,15 +27,11 @@ class Inmo(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        a = response.xpath("head//script[1]/text()").getall()
 
-        yield {"a": a}
-        # for row in response.xpath("/html/head"):
+        l = ItemLoader(item=InmoItem(), response=response)
+        l.add_xpath("data", "head/script[1]")
 
-        #     l = ItemLoader(item=InmoItem(), selector=row)
-        #     l.add_xpath("data1", "//script/")
-        #     l.add_xpath("data2", "td")
-        #     l.add_value("data3", "test")
+        yield l.load_item()
 
-        #     yield l.load_item()
 
+""" to run the spider, run in the terminal ->  scrapy crawl inmo -o data_inmo.json """

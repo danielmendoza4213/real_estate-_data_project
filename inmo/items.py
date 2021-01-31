@@ -1,26 +1,14 @@
 import scrapy
+import chompjs
 from scrapy.loader import ItemLoader
-from itemloaders.processors import TakeFirst, MapCompose
+from itemloaders.processors import Identity, MapCompose, Join
 from w3lib.html import remove_tags
-import json
 
-
-def remove_space(value):
-    return value.strip()
-
-
-def replace_n(value):
-    return " ".join(value.split())
+""" Ideally we should clean up the extracted data using a function"""
 
 
 class InmoItem(scrapy.Item):
-    pass
-    # data1 = scrapy.Field()
-    # input_processor=MapCompose(remove_tags, remove_space),
-    # output_processor=TakeFirst(),
 
-    # data2 = scrapy.Field(
-    #     input_processor=MapCompose(remove_tags, remove_space, replace_n),
-    #     output_processor=TakeFirst(),
-    # )
-    # data3 = scrapy.Field()
+    data = scrapy.Field(
+        input_processor=MapCompose(remove_tags), output_processor=Join(separator=""),
+    )
