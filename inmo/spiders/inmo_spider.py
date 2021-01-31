@@ -2,16 +2,18 @@ import scrapy
 import json
 from inmo.items import InmoItem
 from scrapy.loader import ItemLoader
-from data_cleaning import links_for_scrapy
 
 """ Import of a list of linsk from inmoweb using selenium -> links_for_scrapy in file: data_cleaning.py  """
+
+with open("list_of_links.json", "r") as file:
+    links = json.load(file)
 
 
 class Inmo(scrapy.Spider):
     name = "inmo"
 
     def start_requests(self):
-        urls = links_for_scrapy
+        urls = links
         """ for some reason, scrapy does not follow all the items in the list,
              list has at least 800 intem(links ) TODO: verify this"""
         for url in urls:
@@ -20,9 +22,12 @@ class Inmo(scrapy.Spider):
     def parse(self, response):
 
         l = ItemLoader(item=InmoItem(), response=response)
-        l.add_xpath("data", "head/script[1]")
 
-        yield l.load_item()
+        l.add_xpath("data", "head/script[1]")
+        try:
+            yield l.load_item()
+        except:
+            pass
 
 
 """ to run the spider, run in the terminal ->  scrapy crawl inmo -o data_inmo.json
