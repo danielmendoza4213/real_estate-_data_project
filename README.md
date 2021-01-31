@@ -2,6 +2,9 @@
 
 # how to modofy the format of the extraction -> inmo/items.py
 
+#TODO: Link the list of links to the scrapy spider
+#TODO: Export SCV file runing data_cleaning.py
+
 # real_estate-\_data_project
 
 *Deadline: 29/01/2021 16:00
