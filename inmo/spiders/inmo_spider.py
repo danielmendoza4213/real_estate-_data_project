@@ -14,8 +14,7 @@ class Inmo(scrapy.Spider):
 
     def start_requests(self):
         urls = links
-        """ for some reason, scrapy does not follow all the items in the list,
-             list has at least 800 intem(links ) TODO: verify this"""
+
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
