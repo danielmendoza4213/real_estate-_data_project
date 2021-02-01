@@ -136,7 +136,7 @@ class ImmoScraper:
         Safe links to a json file.
         """
         json_str = json.dumps(list(self.set_links))
-        loc = f'./links_{int(time())}.txt'
+        loc = f'./links_{int(time())}.json'
         with open(loc, 'w') as outfile:
             json.dump(json_str, outfile)
 
