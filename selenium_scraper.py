@@ -132,6 +132,9 @@ class ImmoScraper:
                 next_page = False
 
     def save_set(self):
+        """
+        Safe links to a json file.
+        """
         json_str = json.dumps(list(self.set_links))
         loc = f'./links_{int(time())}.txt'
         with open(loc, 'w') as outfile:
