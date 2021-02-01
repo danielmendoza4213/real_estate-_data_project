@@ -3,6 +3,8 @@
 *Deadline: 29/01/2021 16:00
 *Team: Group 2 (Ad, Daniel, Simon)
 
+RoadMap:https://webscrappingteam2.atlassian.net/jira/software/c/projects/WS/boards/2/roadmap
+
 Collecting Data
 Repository: challenge-collecting-data
 Type of Challenge: Consolidation
