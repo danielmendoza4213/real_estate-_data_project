@@ -2,7 +2,7 @@
 
 *Deadline: 29/01/2021 16:00
 *Team: Group 2 (Ad, Daniel, Simon)
-
+Presentation:https://docs.google.com/presentation/d/1sC66ZFHmvDg-UcZ-Z5fB6ppjrJXWICWYGmUAwvK_e8w/edit?ts=60116b54#slide=id.gc6f980f91_0_0
 RoadMap:https://webscrappingteam2.atlassian.net/jira/software/c/projects/WS/boards/2/roadmap
 
 Collecting Data
